@@ -6,4 +6,4 @@ Frankly, It's a mess. It was one of the first scripts I've ever written and It's
 
 I'm going to keep it here because I know some people get to it while searching for this specific use case, but **If you need to extract data from the Facebook Marketing API, you should use the Singer tap made for that.** 
 
-Take a look at the [https://github.com/singer-io/tap-facebook](Tap-facebook) and [https://github.com/singer-io/target-csv](Target-csv).
+Take a look at (Tap-facebook)[https://github.com/singer-io/tap-facebook] and (Target-csv)[https://github.com/singer-io/target-csv].
